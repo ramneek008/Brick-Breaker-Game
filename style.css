@@ -1,0 +1,21 @@
+body
+    {
+        background-image:url("bg1.jpg");
+        background-size:100% 110%;
+    }
+
+canvas
+    {
+       background:black;
+       display: block;
+       margin: 0 auto;
+    }
+
+h2
+    {
+       font-size:24px;
+       text-align:center;
+       font-family: 'Arbutus';
+       color:#580a3eea;
+    }
+
